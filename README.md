@@ -6,5 +6,5 @@ This repository has several branches. Please checkout the appropriate branch for
 2) <strong>base_sensors</strong> - add sensors to robot <br>
 3) <strong>navigation</strong> - enable autonomous navigation
 
-For more information on running the code:  <br>
-http://moorerobots.com/blog/post/6
+# Reference
+http://moorerobots.com/blog
